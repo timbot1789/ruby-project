@@ -1,0 +1,5 @@
+require 'test/unit'
+require_relative 'tc_atom'
+require_relative 'tc_molecule'
+require_relative 'tc_parser'
+require_relative 'tc_molecule_naming'
